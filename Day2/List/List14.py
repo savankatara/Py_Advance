@@ -1,9 +1,6 @@
 #a=[10,20,50,'hello',50.5]
 a=[100,500,10]
-b=[100,500,1000,100]
+b=[100,500,1000]
 print type(a)
-print b
-b[2]='hey'
-print b
-
-print a
+print a + b
+print tuple(a)

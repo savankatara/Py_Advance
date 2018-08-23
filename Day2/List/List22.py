@@ -2,8 +2,6 @@
 a=[100,500,10]
 b=[100,500,1000,100]
 print type(a)
-print b
-b[2]='hey'
-print b
 
+print a.remove(10)
 print a

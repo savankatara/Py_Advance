@@ -3,7 +3,7 @@ a=[100,500,10]
 b=[100,500,1000,100]
 print type(a)
 print b
-b[2]='hey'
+del(b)
 print b
 
 print a
