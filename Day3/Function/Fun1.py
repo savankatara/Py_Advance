@@ -6,3 +6,4 @@ def fun1(a,b):
    
 fun1(10,20)
 print "out side of the function",d
+
